@@ -4,7 +4,7 @@ A simple colorizer for your logs written in Rust.
 
 ## Build
 
-Standard Rust build:
+Standard Rust build, check to have rust installed on your system, go to the directory of the project and then:
 
 ```bash
 $ cargo build --release
